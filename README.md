@@ -20,13 +20,13 @@
 ## Forecasting Strategy:--
 
 [Define Goal](https://github.com/chetansy/Project-On-Delhi-Air-Pollution#define-goals)
-[Data Collection]
-[Explore & Visualize Data]
-[Pre-Processing Of Data]
-[Partition Series]
-[Apply Forecasting Models]
-[Evaluate & Compare Models]
-[Deployment]
+[Data Collection](https://github.com/chetansy/Project-On-Delhi-Air-Pollution#data-collection)
+[Explore & Visualize Data](https://github.com/chetansy/Project-On-Delhi-Air-Pollution#explore--visualize-data)
+[Pre-Processing Of Data](https://github.com/chetansy/Project-On-Delhi-Air-Pollution#pre-processing-of-data)
+[Partition Series](https://github.com/chetansy/Project-On-Delhi-Air-Pollution#partition-series)
+[Apply Forecasting Models](https://github.com/chetansy/Project-On-Delhi-Air-Pollution#apply-forecasting-models)
+[Evaluate & Compare Models](https://github.com/chetansy/Project-On-Delhi-Air-Pollution#evaluate--compare-models)
+[Deployment](https://github.com/chetansy/Project-On-Delhi-Air-Pollution#deployment)
 
 ### Define Goals
 
