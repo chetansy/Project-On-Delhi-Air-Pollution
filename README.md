@@ -35,11 +35,11 @@ using Flask/ RShiny/Heroku.
 
 
 ### Explore & Visualize Data
-![with NA](https://user-images.githubusercontent.com/62282151/84376292-86cf5900-abfe-11ea-936f-1c2411550b61.png)
-![hourly avg](https://user-images.githubusercontent.com/62282151/84376380-b1211680-abfe-11ea-9ebf-0d6197a221b6.png)
-![daily avg](https://user-images.githubusercontent.com/62282151/84376461-cdbd4e80-abfe-11ea-9985-40601bef03af.png)
-![weekly avg](https://user-images.githubusercontent.com/62282151/84376541-efb6d100-abfe-11ea-9907-e98380ce82a2.png)
-![monthly avg](https://user-images.githubusercontent.com/62282151/84376612-09581880-abff-11ea-82ba-53348f7cdd03.png)
+- ![with NA](https://user-images.githubusercontent.com/62282151/84376292-86cf5900-abfe-11ea-936f-1c2411550b61.png)
+- ![hourly avg](https://user-images.githubusercontent.com/62282151/84376380-b1211680-abfe-11ea-9ebf-0d6197a221b6.png)
+- ![daily avg](https://user-images.githubusercontent.com/62282151/84376461-cdbd4e80-abfe-11ea-9985-40601bef03af.png)
+- ![weekly avg](https://user-images.githubusercontent.com/62282151/84376541-efb6d100-abfe-11ea-9907-e98380ce82a2.png)
+- ![monthly avg](https://user-images.githubusercontent.com/62282151/84376612-09581880-abff-11ea-82ba-53348f7cdd03.png)
 
 
 
