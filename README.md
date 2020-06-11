@@ -19,14 +19,14 @@
         
 ## Forecasting Strategy:--
 
-Define Goal
-Data Collection
-Explore & Visualize Data
-Pre-Processing Of Data
-Partition Series
-Apply Forecasting Models
-Evaluate & Compare Models
-Deployment
+[Define Goal]
+[Data Collection]
+[Explore & Visualize Data]
+[Pre-Processing Of Data]
+[Partition Series]
+[Apply Forecasting Models]
+[Evaluate & Compare Models]
+[Deployment]
 
 
         
