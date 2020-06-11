@@ -26,7 +26,7 @@ using Flask/ RShiny/Heroku.
 - [Apply Forecasting Models](https://github.com/chetansy/Project-On-Delhi-Air-Pollution#apply-forecasting-models)
 - [Evaluate & Compare Models](https://github.com/chetansy/Project-On-Delhi-Air-Pollution#evaluate--compare-models)
 - [Deployment](https://github.com/chetansy/Project-On-Delhi-Air-Pollution#deployment)
-- [Indication Of PM2.5]()
+- [Indication Of PM2.5](https://github.com/chetansy/Project-On-Delhi-Air-Pollution#indication-of-pm25)
 
 ### Define Goals
 * It is ideal database to statistically forecast Air Quality for the next few days, knowing how the pollution levels behaved in the past under similar meteorological conditions. However, this database is not enough to explain the highs and lows, source contributions, and spatial patterns of pollution, especially in an environment where the monitoring database is limited. In such a case, forecasts based on multi-pollutant chemical transport modeling systems is a necessity. and complementary in not only providing support to short-term pollution and health alerts, but also for long-term pollution control planning.
@@ -97,3 +97,4 @@ Accuracy refers to the distance between the Forecast and Actual values. And a fo
 
 
 ### Indication Of PM2.5
+![pm2 5](https://user-images.githubusercontent.com/62282151/84380206-9782cd80-ac04-11ea-857f-de02f432fcd6.png)
