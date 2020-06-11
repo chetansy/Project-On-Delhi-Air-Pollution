@@ -30,16 +30,16 @@
 
 ### Define Goals
 
-## Data Collection
+### Data Collection
 
-## Explore & Visualize Data
+### Explore & Visualize Data
         
-## Pre-Processing Of Data
+### Pre-Processing Of Data
 
-## Partition Series
+### Partition Series
 
-## Apply Forecasting Models
+### Apply Forecasting Models
 
-## Evaluate & Compare Models
+### Evaluate & Compare Models
 
-## Deployment
+### Deployment
