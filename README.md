@@ -25,7 +25,7 @@ using Flask/ RShiny/Heroku.
 - [Partition Series](https://github.com/chetansy/Project-On-Delhi-Air-Pollution#partition-series)
 - [Apply Forecasting Models](https://github.com/chetansy/Project-On-Delhi-Air-Pollution#apply-forecasting-models)
 - [Evaluate & Compare Models](https://github.com/chetansy/Project-On-Delhi-Air-Pollution#evaluate--compare-models)
-- [Deployment](https://github.com/chetansy/Project-On-Delhi-Air-Pollution#deployment)
+- [Model Selection](https://github.com/chetansy/Project-On-Delhi-Air-Pollution#model-selection)
 - [Indication Of PM2.5](https://github.com/chetansy/Project-On-Delhi-Air-Pollution#indication-of-pm25)
 
 ### Define Goals
@@ -93,8 +93,8 @@ Accuracy refers to the distance between the Forecast and Actual values. And a fo
     | Nnetar      | 31.97  |   71.12   |      33.57      |
 
 
-### Deployment
-
+### Model Selection
+- We will prefer nnetar for forecasting as RMSE seems to be low compared to other
 
 ### Indication Of PM2.5
 ![pm2 5](https://user-images.githubusercontent.com/62282151/84380206-9782cd80-ac04-11ea-857f-de02f432fcd6.png)
