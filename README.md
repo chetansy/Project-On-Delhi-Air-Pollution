@@ -56,6 +56,9 @@ The test set is a set of observations used to evaluate the performance of the mo
 - The data for the Modeling was splitted into two parts Training & Test data.
 - Train data contain 80% of the data whereas test data contain 20% of the data.
 
+
+
+
 ### Apply Forecasting Models
 
 We Have Tried Various Techniques Like
