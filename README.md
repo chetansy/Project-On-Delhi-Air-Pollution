@@ -49,12 +49,21 @@ using Flask/ RShiny/Heroku.
 ### Partition Series
 
 - Training data and test data are two important concepts in machine learning.
-- Training Data---
- The observations in the training set form the experience that the algorithm uses to learn
-- Test Data---
+- Training Data ---
+ The observations in the training set form the experience that the algorithm uses to learn.
+- Test Data ---
 The test set is a set of observations used to evaluate the performance of the model using some performance metric. It is important that no observations from the training set are included in the test set. If the test set does contain examples from the training set, it will be difficult to assess whether the algorithm has learned to generalize from the training set or has simply memorized it.
+- The data for the Modeling was splitted into two parts Training & Test data.
+- Train data contain 80% of the data whereas test data contain 20% of the data.
 
 ### Apply Forecasting Models
+
+We Have Tried Various Techniques Like
+- Exponential Smoothing Method
+- Holts Method
+- Neural Network Method
+- HoltsWinters Method
+
 
 ### Evaluate & Compare Models
 
