@@ -72,12 +72,12 @@ Accuracy refers to the distance between the Forecast and Actual values. And a fo
 - In general, the basic objective of all forecast models is to maximize accuracy and minimize bias. After fitting several model candidates to a given data set.
 - The next step is to compare and select the best forecasting model. A lot of criteria have been proposed to compare forecasting models,
 
-        | Models | Train RMSE | Test RMSE | Whole Data RMSE |
-        | ------ | ---------- | --------- | --------------- |
-        | Auto-Arima  | 50.33  |   91.16   |      52.78      |
-        | Holts       | 55.17  |   141.45  |      53.61      |
-        | HoltsWinter | 88.93  |   94.44   |      56.15      |
-        | Nnetar      | 31.97  |   71.12   |      33.57      |
+    | Models | Train RMSE | Test RMSE | Whole Data RMSE |
+    | ------ | ---------- | --------- | --------------- |
+    | Auto-Arima  | 50.33  |   91.16   |      52.78      |
+    | Holts       | 55.17  |   141.45  |      53.61      |
+    | HoltsWinter | 88.93  |   94.44   |      56.15      |
+    | Nnetar      | 31.97  |   71.12   |      33.57      |
 
 
 ### Deployment
