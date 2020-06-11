@@ -20,19 +20,17 @@ using Flask/ RShiny/Heroku.
 ## Forecasting Strategy:--
 
 - [Define Goal](https://github.com/chetansy/Project-On-Delhi-Air-Pollution#define-goals)
-- [Data Collection](https://github.com/chetansy/Project-On-Delhi-Air-Pollution#data-collection)
 - [Explore & Visualize Data](https://github.com/chetansy/Project-On-Delhi-Air-Pollution#explore--visualize-data)
 - [Pre-Processing Of Data](https://github.com/chetansy/Project-On-Delhi-Air-Pollution#pre-processing-of-data)
 - [Partition Series](https://github.com/chetansy/Project-On-Delhi-Air-Pollution#partition-series)
 - [Apply Forecasting Models](https://github.com/chetansy/Project-On-Delhi-Air-Pollution#apply-forecasting-models)
 - [Evaluate & Compare Models](https://github.com/chetansy/Project-On-Delhi-Air-Pollution#evaluate--compare-models)
 - [Deployment](https://github.com/chetansy/Project-On-Delhi-Air-Pollution#deployment)
+- [Indication Of PM2.5]()
 
 ### Define Goals
+* It is ideal database to statistically forecast Air Quality for the next few days, knowing how the pollution levels behaved in the past under similar meteorological conditions. However, this database is not enough to explain the highs and lows, source contributions, and spatial patterns of pollution, especially in an environment where the monitoring database is limited. In such a case, forecasts based on multi-pollutant chemical transport modeling systems is a necessity. and complementary in not only providing support to short-term pollution and health alerts, but also for long-term pollution control planning.
 * As We have 4 months of Past Data on Horly Basis , so We will have to forecast the data for next few days.
-
-### Data Collection
-
 
 ### Explore & Visualize Data
 #### NA Distribution
@@ -96,3 +94,6 @@ Accuracy refers to the distance between the Forecast and Actual values. And a fo
 
 
 ### Deployment
+
+
+### Indication Of PM2.5
