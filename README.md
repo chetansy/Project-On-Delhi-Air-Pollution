@@ -69,7 +69,7 @@ The test set is a set of observations used to evaluate the performance of the mo
 
 ### Apply Forecasting Models
 We Have Tried Various Techniques Like
-- Exponential Smoothing Method
+- Auto-Arima Method
 - Holts Method
 - Neural Network Method
 - HoltsWinters Method
