@@ -29,6 +29,17 @@
 [Deployment]
 
 ## Define Goals
-        
-        
 
+## Data Collection
+
+## Explore & Visualize Data
+        
+## Pre-Processing Of Data
+
+## Partition Series
+
+## Apply Forecasting Models
+
+## Evaluate & Compare Models
+
+## Deployment
