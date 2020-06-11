@@ -29,7 +29,6 @@ using Flask/ RShiny/Heroku.
 - [Deployment](https://github.com/chetansy/Project-On-Delhi-Air-Pollution#deployment)
 
 ### Define Goals
-
 * As We have 4 months of Past Data on Horly Basis , so We will have to forecast the data for next few days.
 
 ### Data Collection
@@ -39,7 +38,6 @@ using Flask/ RShiny/Heroku.
 
 
 ### Pre-Processing Of Data
-
 - The variable pm25 has 80 missing values.
 - The variable date also contain some missing time stamps.
 - After applying padding to the entire data set, the pm25 variable contains 323 missing values.
@@ -47,7 +45,6 @@ using Flask/ RShiny/Heroku.
 
 
 ### Partition Series
-
 - Training data and test data are two important concepts in machine learning.
 - Training Data ---
  The observations in the training set form the experience that the algorithm uses to learn.
@@ -57,10 +54,7 @@ The test set is a set of observations used to evaluate the performance of the mo
 - Train data contain 80% of the data whereas test data contain 20% of the data.
 
 
-
-
 ### Apply Forecasting Models
-
 We Have Tried Various Techniques Like
 - Exponential Smoothing Method
 - Holts Method
