@@ -19,7 +19,7 @@
         
 ## Forecasting Strategy:--
 
-[Define Goal](https://github.com/chetansy/Project-On-Delhi-Air-Pollution#
+[Define Goal](https://github.com/chetansy/Project-On-Delhi-Air-Pollution#define-goals)
 [Data Collection]
 [Explore & Visualize Data]
 [Pre-Processing Of Data]
