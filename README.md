@@ -28,7 +28,7 @@
 [Evaluate & Compare Models]
 [Deployment]
 
-## Define Goals
+### Define Goals
 
 ## Data Collection
 
