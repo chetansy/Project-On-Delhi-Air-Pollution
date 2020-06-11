@@ -29,7 +29,7 @@ using Flask/ RShiny/Heroku.
 - [Deployment](https://github.com/chetansy/Project-On-Delhi-Air-Pollution#deployment)
 
 ### Define Goals
-As We have 4 months of Past Data on Horly Basis , so We have to forecast the data for next few days.
+  As We have 4 months of Past Data on Horly Basis , so We have to forecast the data for next few days.
 
 ### Data Collection
 
