@@ -35,6 +35,8 @@ using Flask/ RShiny/Heroku.
 
 
 ### Explore & Visualize Data
+![with NA](https://user-images.githubusercontent.com/62282151/84375824-bc277700-abfd-11ea-98e8-ee00b00e76ad.png)
+
 
 
 ### Pre-Processing Of Data
