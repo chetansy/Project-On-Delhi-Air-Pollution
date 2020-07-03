@@ -6,7 +6,7 @@
 # Update this line with the R packages to install:
 
 my_packages = c(
-	"shinythemes"
+	"shinythemes","shinydashboard","shinycssloaders","forecast","padr","imputeTS","readxl","dplyr","DT","ggplot2","shinyWidgets"
 )
 
 ###########################################################
