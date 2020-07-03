@@ -7,16 +7,6 @@
 
 my_packages = c(
 	"shinythemes",
-	"shinydashboard",
-	"shinycssloaders",
-  "forecast",
-  "padr",
-  "imputeTS",
-  "readxl",
-  "dplyr",
-  "DT",
-  "ggplot2",
-  "shinyWidgets",
 )
 
 ###########################################################
